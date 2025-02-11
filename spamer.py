@@ -6,8 +6,8 @@ from telethon.sync import TelegramClient
 from telethon.errors import SessionPasswordNeededError
 
 # Configuración de API y variables de telegram
-api_id = '7639109623'  
-api_hash = 'AAHPai4qAnTymaC2RtEH2oG9mq6DHYhw1mA'  
+api_id = '28285472'  
+api_hash = '599226476b89fcb0a9f49d8bba8e2613'  
 grupo_origen_id = -1002471895760        # ID de tu grupo de origen
 tu_numero_telefono = '+51910740363'  # Tu número de teléfono asociado a la cuenta de Telegram
 # Define la cantidad de segundos entre cada envío de mensaje
