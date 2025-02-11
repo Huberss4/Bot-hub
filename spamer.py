@@ -80,7 +80,7 @@ def reenviar_mensajes(client):
     except Exception as ex:
         print(f"{m}❌❌❌ Error general: {ex}{p}")
 
-if name == "main":
+
     print(logo())  # Llamada a la función logo() al inicio del script
     client = iniciar_sesion()
     
